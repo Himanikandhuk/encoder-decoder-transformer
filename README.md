@@ -3,7 +3,7 @@
 ## 📌 Overview
 This project implements a **Transformer-based encoder–decoder architecture from scratch in PyTorch** for **natural language into executable program code**(includes the SQL and Python tokensizer).
 ### The Implemented model architecture
-<img width="453" height="680" alt="llm_flow_white-Photoroom (1)" src="https://github.com/user-attachments/assets/eb7d6790-41df-4f07-929c-497fb93823bd" />
+<img width="350" height="500" alt="llm_flow_white-Photoroom (1)" src="https://github.com/user-attachments/assets/eb7d6790-41df-4f07-929c-497fb93823bd" />
 
 Unlike pre-trained models, this implementation focuses on:<br>
 - Full transparency of architecture  <br>
